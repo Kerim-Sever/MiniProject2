@@ -11,3 +11,9 @@ Hello,Thank you for clicking on this page. My name is Kapil Sathyakumar and I am
 
 https://github.com/kstacks792/MiniProject1.git(Mini Project 1)
 https://github.com/kstacks792/MiniProject2.git(Mini Project 2)
+
+(Three Goals)
+
+Complete a Marathon
+Create a Philanthropy
+Travel the World
